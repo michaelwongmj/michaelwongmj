@@ -1,5 +1,5 @@
-Hi, I’m michael from Hong Kong, a beginner at programming
-I’m currently learning machine learning 
+- Hi, I’m michael from Hong Kong, a beginner at programming
+- I’m currently learning machine learning and also SQL !
 
 <!---
 michaelwongmj/michaelwongmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
